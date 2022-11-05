@@ -33,7 +33,7 @@ Exclusive and free event, promoted by Rocketseat for teaching WEB technologies.
 
 Rocketpay is a component that simulates the credit card filling form, where you can add mask to entries and update HTML elements via DOM.
 
-#### Flags
+### Flags
 
 Visa: 4;
 Mastercard: 51;
